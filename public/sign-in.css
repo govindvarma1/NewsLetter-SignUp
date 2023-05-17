@@ -1,0 +1,43 @@
+form {
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 15% 0;
+}
+
+img {
+    width: 15%;
+}
+
+input,
+button {
+    width: 325px;
+    padding: 5px;
+}
+
+/* .first{
+    border-radius: 2px;
+}  */
+
+.middle {
+    margin-top: -1px;
+}
+
+.last {
+    margin-top: -1px;
+}
+
+button {
+    background-color: rgb(36, 97, 228);
+    border-radius: 5px;
+    margin-top: 25px;
+    color: white;
+    border: none;
+    /* padding: 5px; */
+}
+
+h4 {
+    color: gray;
+}
